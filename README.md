@@ -1,4 +1,4 @@
-Here’s a GitHub README for your **Offline Chatbot using Ollama** project, written to be beginner-friendly and engaging—just like your LinkedIn post!
+
 
 ---
 
@@ -115,4 +115,3 @@ Let’s make AI truly accessible—**even without the cloud**.
 
 ---
 
-Would you like help designing a logo or adding a project banner for GitHub too?
